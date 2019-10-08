@@ -1,0 +1,12 @@
+TESTS WITH ERRORS 
+-------------------------------
+TESTS FAILED  
+test_1 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "/Users/andrewpaley/Dropbox/nu/fall2019/ta-introToAI/automatedgradingapp/app/testing/Source-Assignment-0/gradingtests.py", line 7, in test_1
+    self.assertTrue(result)
+AssertionError: False is not true
+
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
