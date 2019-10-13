@@ -8,4 +8,4 @@ class SetupTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    print("I had a late enrollment, and my git is ready\n");
+    
